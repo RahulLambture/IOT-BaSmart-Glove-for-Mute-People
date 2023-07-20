@@ -31,3 +31,5 @@ Note:
 The sensitivity of flex sensors can be adjusted as needed.
 Customize the custom alert (Gesture assigned to Flex Sensor 4) for specific user requirements.
 Enjoy Empowering Silence with Gesture-Controlled Alerts! 🤝🧤 #GestureAlertSystem #EmpoweringSilence #ArduinoProject
+
+https://github.com/RahulLambture/IOT-BaSmart-Glove-for-Mute-People/assets/87817613/83c2e708-f1ee-4147-9c9d-53e39199a612
